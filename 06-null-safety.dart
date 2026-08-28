@@ -4,3 +4,5 @@ void main(){
   telefone = '91234-5678';
   print(telefone);
 }
+
+a interrogação indica variavel nula
