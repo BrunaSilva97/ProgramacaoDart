@@ -1,0 +1,11 @@
+comandos cmd para windows
+dir - listar diretorios
+mkdir - criar diretorios
+cls - limpar terminal
+cd nomediretorio - abrir pasta
+echo - "print"
+echo "texto dentro do arquivo" > nomedoarquivo.txt - criar um txt com texto dentro
+rmdir nomedodiretorio - remover diretorio
+del nomedoarquivo - apagar arquivo
+cd .. - sair da pasta
+color de 0 a F
